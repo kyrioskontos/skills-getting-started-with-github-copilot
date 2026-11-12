@@ -51,9 +51,9 @@ All data is stored in memory, which means data will be reset when the server res
 
 ## Running Tests
 
-From the repository root, install the development dependencies and run the test suite:
+From the repository root, install the dependencies and run the test suite:
 
 ```bash
-pip install -r requirements-dev.txt
+pip install -r requirements.txt
 pytest
 ```
